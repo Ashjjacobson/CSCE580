@@ -1,0 +1,264 @@
+{
+  "recipe_name": "roasted-delicata-squash",
+  "food_role": [
+    "Side Dish"
+  ],
+  "data_provenance": {
+    "source_url": "",
+    "last_system_access": ""
+  },
+  "macronutrients": {},
+  "ingredients": [
+    {
+      "name": "delicata squash",
+      "quantity": {
+        "measure": "1",
+        "unit": "large"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "ends trimmed, halved lengthwise, seeded",
+      "image": ""
+    },
+    {
+      "name": "olive oil",
+      "quantity": {
+        "measure": "1",
+        "unit": "tablespoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "salt",
+      "quantity": {
+        "measure": "1",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "quantity": {
+        "measure": "0.125",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "to taste",
+      "image": ""
+    }
+  ],
+  "hasDairy": false,
+  "hasMeat": false,
+  "hasNuts": false,
+  "prep_time": "",
+  "cook_time": "",
+  "serves": "",
+  "instructions": [
+    {
+      "original_text": "Gather all ingredients. Preheat the oven to 450\u00b0F (232\u00b0C). Line a rimmed baking sheet with parchment paper or a silicone mat.",
+      "input_condition": [
+        "have_ingredients",
+        "have_oven",
+        "have_baking_sheet"
+      ],
+      "task": [
+        {
+          "action_name": "Preheat oven to 450\u00b0F (232\u00b0C)",
+          "output_quality": [
+            "Oven should reach set temperature before baking."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "oven"
+            ],
+            "failure": [
+              "oven not preheated"
+            ]
+          }
+        },
+        {
+          "action_name": "Line baking sheet with parchment paper or silicone mat",
+          "output_quality": [
+            "Sheet should be covered evenly."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "baking sheet"
+            ],
+            "failure": [
+              "no liner used"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "have_prepared_baking_sheet"
+      ],
+      "modality": {
+        "image": [
+          ""
+        ],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Place squash halves cut-side down on a cutting board. Cut into 3/8-inch slices.",
+      "input_condition": [
+        "have_delicata_squash",
+        "have_cutting_board"
+      ],
+      "task": [
+        {
+          "action_name": "Slice squash into 3/8-inch slices",
+          "output_quality": [
+            "Uniform slices for even cooking."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "knife",
+              "cutting board"
+            ],
+            "failure": [
+              "uneven slices"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "have_sliced_squash"
+      ],
+      "modality": {
+        "image": [
+          ""
+        ],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Transfer slices to a large bowl. Drizzle with olive oil; add salt and cayenne pepper. Toss until squash is well coated.",
+      "input_condition": [
+        "have_sliced_squash",
+        "have_large_bowl"
+      ],
+      "task": [
+        {
+          "action_name": "Drizzle olive oil and add seasoning",
+          "output_quality": [
+            "Ensure squash is evenly coated."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "bowl",
+              "spoon"
+            ],
+            "failure": [
+              "uneven coating"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "have_seasoned_squash"
+      ],
+      "modality": {
+        "image": [
+          ""
+        ],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Arrange squash in a single layer on the prepared baking sheet.",
+      "input_condition": [
+        "have_prepared_baking_sheet",
+        "have_seasoned_squash"
+      ],
+      "task": [
+        {
+          "action_name": "Arrange squash slices in single layer",
+          "output_quality": [
+            "Even spacing ensures proper roasting."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "baking sheet"
+            ],
+            "failure": [
+              "overlapping slices"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "have_arranged_squash"
+      ],
+      "modality": {
+        "image": [
+          ""
+        ],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Bake in the preheated oven until the bottoms are browned and squash is tender, 12 to 18 minutes.",
+      "input_condition": [
+        "have_arranged_squash",
+        "have_oven"
+      ],
+      "task": [
+        {
+          "action_name": "Bake squash at 450\u00b0F for 12\u201318 minutes",
+          "output_quality": [
+            "Squash should be tender and browned on bottom."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "oven",
+              "baking sheet"
+            ],
+            "failure": [
+              "undercooked squash",
+              "burnt squash"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "have_roasted_delicata_squash"
+      ],
+      "modality": {
+        "image": [
+          ""
+        ],
+        "video": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "recipe_name": "roasted-delicata-squash",
+  "food_role": [
+    "Side Dish"
+  ],
+  "data_provenance": {
+    "source_file": "original_recipe2.txt",
+    "extracted_on": "2025-10-07T21:35:01.133577"
+  },
+  "ingredients": [
+    {
+      "name": "delicata squash",
+      "quantity": {
+        "measure": "1",
+        "unit": "large"
+      },
+      "preparation": "ends trimmed, halved lengthwise, seeded",
+      "allergies": {},
+      "alternative": ""
+    },
+    {
+      "name": "olive oil",
+      "quantity": {
+        "measure": "1",
+        "unit": "tablespoon"
+      },
+      "preparation": "",
+      "allergies": {},
+      "alternative": ""
+    },
+    {
+      "name": "salt",
+      "quantity": {
+        "measure": "1",
+        "unit": "teaspoon"
+      },
+      "preparation": "",
+      "allergies": {},
+      "alternative": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "quantity": {
+        "measure": "1/8",
+        "unit": "teaspoon"
+      },
+      "preparation": "or to taste",
+      "allergies": {},
+      "alternative": ""
+    }
+  ],
+  "prep_time": "",
+  "cook_time": "",
+  "serves": "",
+  "instructions": [
+    {
+      "original_text": "Gather all ingredients. Preheat the oven to 450 degrees F (232 degrees C). Line a rimmed baking sheet with parchment paper or a silicone mat.",
+      "notes": "Preheat oven and prepare baking sheet."
+    },
+    {
+      "original_text": "Place squash halves cut-side down on a cutting board. Cut into 3/8-inch slices.",
+      "notes": "Slice halves into 3/8-inch slices with cut-side down."
+    },
+    {
+      "original_text": "Transfer slices to a large bowl. Drizzle with olive oil; add salt and cayenne pepper. Toss until squash is well coated.",
+      "notes": "Season and toss to coat evenly."
+    },
+    {
+      "original_text": "Arrange squash in a single layer on the prepared baking sheet.",
+      "notes": "Avoid overlapping slices for even roasting."
+    },
+    {
+      "original_text": "Bake in the preheated oven until the bottoms are browned and squash is tender, 12 to 18 minutes.",
+      "notes": "Roast 12\u201318 minutes until browned and tender."
+    }
+  ],
+  "hasDairy": false,
+  "hasMeat": false,
+  "hasNuts": false,
+  "created": "2025-10-07T21:35:01.133602"
+}

@@ -1,0 +1,270 @@
+{
+  "recipe_name": "baklava",
+  "food_role": [
+    "Dessert"
+  ],
+  "data_provenance": {
+    "source_url": "",
+    "last_system_access": "2025-10-07 00:00:00"
+  },
+  "macronutrients": {},
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "quantity": {
+        "measure": "1",
+        "unit": "package"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "thawed",
+      "image": ""
+    },
+    {
+      "name": "mixed nuts (walnuts, almonds, pistachios)",
+      "quantity": {
+        "measure": "3.5",
+        "unit": "cups"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "tree_nuts"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "use any combination of walnuts, almonds, pistachios",
+      "quality_characteristic": "finely chopped",
+      "image": ""
+    },
+    {
+      "name": "sugar (nut mixture)",
+      "quantity": {
+        "measure": "0.25",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "sweeteners"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "butter",
+      "quantity": {
+        "measure": "1",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "dairy"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "clarified butter (ghee)",
+      "quality_characteristic": "melted",
+      "image": ""
+    },
+    {
+      "name": "cinnamon (spice for nut mix)",
+      "quantity": {
+        "measure": "1",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "spices"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "nutmeg",
+      "quantity": {
+        "measure": "1",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "spices"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "ground cloves",
+      "quantity": {
+        "measure": "0.5",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "spices"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "cardamom",
+      "quantity": {
+        "measure": "0.5",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "spices"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "honey (syrup)",
+      "quantity": {
+        "measure": "1.25",
+        "unit": "cups"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "sweeteners"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "water (syrup)",
+      "quantity": {
+        "measure": "1.25",
+        "unit": "cups"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "water"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "sugar (syrup)",
+      "quantity": {
+        "measure": "1.25",
+        "unit": "cups"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "sweeteners"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "cinnamon (syrup)",
+      "quantity": {
+        "measure": "0.5",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "spices"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "orange slices",
+      "quantity": {
+        "measure": "2",
+        "unit": "slices"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "citrus"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "lemon slices",
+      "quantity": {
+        "measure": "3",
+        "unit": "slices"
+      },
+      "allergies": {
+        "id": "",
+        "category": [
+          "citrus"
+        ],
+        "ref": [],
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    }
+  ],
+  "hasDairy": true,
+  "hasMeat": false,
+  "hasNuts": true,
+  "prep_time": "45 minutes",
+  "cook_time": "45 minutes (bake) + syrup cooling time",
+  "serves": "12",
+  "instructions": []
+}

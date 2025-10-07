@@ -1,0 +1,117 @@
+{
+  "recipe_name": "Roasted Delicata Squash",
+  "food_role": [],
+  "data_provenance": {
+    "source_file": "/mnt/data/original_recipe2.txt"
+  },
+  "macronutrients": {},
+  "ingredients": [
+    {
+      "name": "1 large delicata squash - ends trimmed, halved lengthwise, seeded",
+      "quantity": {
+        "measure": "",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "quantity": {
+        "measure": "",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "quantity": {
+        "measure": "",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "\u215b teaspoon cayenne pepper, or to taste",
+      "quantity": {
+        "measure": "",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    }
+  ],
+  "hasDairy": false,
+  "hasMeat": false,
+  "hasNuts": false,
+  "prep_time": "",
+  "cook_time": "",
+  "serves": "",
+  "instructions": [
+    {
+      "original_text": "Step 1 Gather all ingredients. Preheat the oven to 450 degrees F (232 degrees C). Line a rimmed baking sheet with parchment paper or a silicone mat.",
+      "input_condition": [],
+      "task": [],
+      "output_condition": [],
+      "modality": {}
+    },
+    {
+      "original_text": "Step 2 Place squash halves cut-side down on a cutting board. Cut into 3/8-inch slices.",
+      "input_condition": [],
+      "task": [],
+      "output_condition": [],
+      "modality": {}
+    },
+    {
+      "original_text": "Step 3 Transfer slices to a large bowl. Drizzle with olive oil; add salt and cayenne pepper. Toss until squash is well coated.",
+      "input_condition": [],
+      "task": [],
+      "output_condition": [],
+      "modality": {}
+    },
+    {
+      "original_text": "Step 4 Arrange squash in a single layer on the prepared baking sheet.",
+      "input_condition": [],
+      "task": [],
+      "output_condition": [],
+      "modality": {}
+    },
+    {
+      "original_text": "Step 5 Bake in the preheated oven until the bottoms are browned and squash is tender, 12 to 18 minutes.",
+      "input_condition": [],
+      "task": [],
+      "output_condition": [],
+      "modality": {}
+    }
+  ]
+}

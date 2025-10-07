@@ -1,0 +1,315 @@
+{
+  "recipe_name": "baklava",
+  "food_role": [
+    "Dessert"
+  ],
+  "data_provenance": {
+    "source_url": "",
+    "last_system_access": "2025-10-07 21:27:36"
+  },
+  "macronutrients": {},
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "quantity": {
+        "measure": "1",
+        "unit": "pkg"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "chopped nuts",
+      "quantity": {
+        "measure": "3-4",
+        "unit": "cups"
+      },
+      "allergies": {
+        "category": [
+          "tree nuts"
+        ]
+      },
+      "alternative": "",
+      "quality_characteristic": "finely chopped",
+      "image": ""
+    },
+    {
+      "name": "sugar",
+      "quantity": {
+        "measure": "1/4",
+        "unit": "cup"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "melted butter",
+      "quantity": {
+        "measure": "1",
+        "unit": "cup"
+      },
+      "allergies": {
+        "category": [
+          "dairy"
+        ]
+      },
+      "alternative": "",
+      "quality_characteristic": "melted",
+      "image": ""
+    },
+    {
+      "name": "cinnamon",
+      "quantity": {
+        "measure": "1",
+        "unit": "tsp"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "nutmeg",
+      "quantity": {
+        "measure": "1",
+        "unit": "tsp"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "ground cloves",
+      "quantity": {
+        "measure": "1/2",
+        "unit": "tsp"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "cardamom",
+      "quantity": {
+        "measure": "1/2",
+        "unit": "tsp"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "ground",
+      "image": ""
+    },
+    {
+      "name": "honey",
+      "quantity": {
+        "measure": "1 1/4",
+        "unit": "cups"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "water",
+      "quantity": {
+        "measure": "1 1/4",
+        "unit": "cups"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "sugar (for syrup)",
+      "quantity": {
+        "measure": "1 1/4",
+        "unit": "cups"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "cinnamon (for syrup)",
+      "quantity": {
+        "measure": "1/2",
+        "unit": "tsp"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "orange",
+      "quantity": {
+        "measure": "2",
+        "unit": "slices"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "lemon",
+      "quantity": {
+        "measure": "3",
+        "unit": "slices"
+      },
+      "allergies": {},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    }
+  ],
+  "hasDairy": true,
+  "hasMeat": false,
+  "hasNuts": true,
+  "prep_time": "",
+  "cook_time": "45 minutes",
+  "serves": "",
+  "instructions": [
+    {
+      "original_text": "Make syrup first. Combine all ingredients in a saucepan and bring to a boil. Let boil for 10 minutes, stirring when needed to keep it from foaming over. Remove from heat, take out orange and lemon slices, and let come to room temp. When it's at room temp, place in the fridge until needed.",
+      "input_condition": [],
+      "task": [
+        {
+          "action_name": "Combine syrup ingredients in saucepan",
+          "output_quality": [],
+          "background_knowledge": {
+            "tool": [
+              "saucepan"
+            ],
+            "failure": []
+          }
+        },
+        {
+          "action_name": "Boil for 10 minutes",
+          "output_quality": [
+            "stir occasionally"
+          ],
+          "background_knowledge": {
+            "tool": [],
+            "failure": []
+          }
+        }
+      ],
+      "output_condition": [],
+      "modality": {
+        "image": [],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Combine chopped nuts, sugar, and spices in a bowl.",
+      "input_condition": [],
+      "task": [
+        {
+          "action_name": "Mix nuts, sugar, and spices",
+          "output_quality": [],
+          "background_knowledge": {
+            "tool": [
+              "bowl"
+            ],
+            "failure": []
+          }
+        }
+      ],
+      "output_condition": [],
+      "modality": {
+        "image": [],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Unwrap thawed phyllo dough and lay out flat. Cover with damp paper towels. Grease a 9x13 pan. Trim dough to fit pan if needed.",
+      "input_condition": [],
+      "task": [
+        {
+          "action_name": "Prepare phyllo dough and pan",
+          "output_quality": [],
+          "background_knowledge": {
+            "tool": [
+              "baking pan"
+            ],
+            "failure": []
+          }
+        }
+      ],
+      "output_condition": [],
+      "modality": {
+        "image": [],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Layer phyllo sheets with butter and nuts according to instructions, ending with buttered layers on top.",
+      "input_condition": [],
+      "task": [
+        {
+          "action_name": "Layer phyllo and nuts",
+          "output_quality": [],
+          "background_knowledge": {
+            "tool": [],
+            "failure": []
+          }
+        }
+      ],
+      "output_condition": [],
+      "modality": {
+        "image": [],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Cover and refrigerate for 30 minutes. Cut into triangles, brush with butter, bake for 45 minutes at 350F, re-cut after 30 minutes.",
+      "input_condition": [],
+      "task": [
+        {
+          "action_name": "Chill, cut, and bake baklava",
+          "output_quality": [],
+          "background_knowledge": {
+            "tool": [
+              "oven"
+            ],
+            "failure": []
+          }
+        }
+      ],
+      "output_condition": [],
+      "modality": {
+        "image": [],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Let baklava cool completely, then pour syrup over and rest for 1 hour.",
+      "input_condition": [],
+      "task": [
+        {
+          "action_name": "Cool and soak baklava with syrup",
+          "output_quality": [],
+          "background_knowledge": {
+            "tool": [],
+            "failure": []
+          }
+        }
+      ],
+      "output_condition": [],
+      "modality": {
+        "image": [],
+        "video": ""
+      }
+    }
+  ]
+}

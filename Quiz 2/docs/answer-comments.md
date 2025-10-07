@@ -15,4 +15,31 @@ Q2:
         2. https://www.allrecipes.com/recipe/260734/roasted-delicata-squash/
     b)
         a.
-            
+            What
+        b.
+            👍
+        c.
+            i.
+                I manually copied and pasted from the HTML files, removing extra image citations and whatnot
+            ii.
+                👍
+            iii.
+                1.
+                    Prompt:
+                        Take this text file and return me a json file in the format as close to the provided json file as can be given, leaving blanks where needed. name it PF1.json (linked txt file) (linked example json)
+                2.
+                    Prompt:
+                        Use this text file to find the ingredients and steps and plug them into the json files, name the new file PF2.json (linked txt file) (linked example json)
+                3.
+                    Prompt:
+                        take the ingredients and the steps from this text file and plug them into a new json in the format of the example provided, make this file downloadable and name it PF3 (linked txt file) (linked example json)
+            iv.
+                1.
+                    Prompt:
+                        _
+                2.
+                    Prompt:
+                        _
+            v.
+                👍
+    c)

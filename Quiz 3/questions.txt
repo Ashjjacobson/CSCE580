@@ -18,4 +18,8 @@ Q3.
 			4. carry3 = F
 			5. F = 1
 			6. All char different
-	b)
+			7. T >= 5
+	b) F= {1}
+	 T= {5,9}
+	 W, O, U, R = {0}, {2,9}
+

@@ -1,0 +1,12 @@
+Q1.
+a) An admissible heuristic is an estimation of the number of steps until a certain goal that is always on or better than the minimum path
+b) Yes
+c) Not unless k is equal to or less than the minimum path steps left
+d) Yes, maybe if it applies to the definition given in a
+Q2.
+1. The code represents states as variables that hold the number of missionaries on the left, cannibals on the left, missionaries on the right, cannibals on the right, and boat left or right in a string. It uses a breadth first search.
+2. Ok
+3. Ok
+Q3.
+a)
+b)
